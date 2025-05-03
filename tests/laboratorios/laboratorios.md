@@ -7,20 +7,20 @@ Este documento organiza los ejercicios por grupos temáticos o niveles de dificu
 ## 📂 Grupo 1: Pruebas básicas (título, búsqueda, visibilidad)
 
 ### ✅ Lab 1 - Validación de título y búsqueda de producto (OpenCart Demo)
-**Archivo:** `lab_1.spec.ts`  
-**URL de prueba:** [https://opencart.abstracta.us/]
+**Archivo:** `lab_1-1.spec.ts`  
+**URL de prueba:** [https://opencart.abstracta.us/](https://opencart.abstracta.us/)
 
 **Objetivo:**  
 Validar el título de la página principal y realizar una búsqueda sencilla de un producto desde el buscador del sitio.
 
 **Escenarios:**
 - [✓] Verificar que el título de la página sea "Your Store".
-- [] Buscar el producto “MacBook” y validar que aparezca en los resultados.
-- [] Validar que el producto tenga precio visible.
+- [✓] Buscar el producto “MacBook” y validar que aparezca en los resultados.
+- [✓] Validar que el producto tenga precio visible.
 
 
 ### ✅ Lab 2 - Validación de frame y texto (DemoQA - Frames)
-**Archivo:** `lab_2.spec.ts`  
+**Archivo:** `lab_1-2.spec.ts`  
 **URL de prueba:** [https://demoqa.com/frames](https://demoqa.com/frames)
 
 **Objetivo:**  
