@@ -27,12 +27,12 @@ Validar el título de la página principal y realizar una búsqueda sencilla de 
 Interactuar con un `iframe` y validar el texto que contiene.
 
 **Escenarios:**
-- [ ] Acceder al frame principal.
-- [ ] Extraer y validar el texto “This is a sample page”.
+- [✓] Acceder al frame principal.
+- [✓] Extraer y validar el texto “This is a sample page”.
 
 
 ### ✅ Lab X - Validación de título y resultados (Mercado Libre)
-**Archivo:** `lab_ml.spec.ts`  
+**Archivo:** `lab_1-3.spec.ts`  
 **URL de prueba:** [https://www.mercadolibre.com.co](https://www.mercadolibre.com.co)
 
 **Objetivo:**  
